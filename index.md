@@ -1,8 +1,8 @@
 ## Atomic Force Microscopy
 
 AFM is a type of scanning probe microscopy with very high resolution that is on the scale of nanometers, or fractions of nanometers. It works by scanning a small cantilever, which is a long projecting beam with a tip, over the surface of a smaple. The tip at the end of the cantilever makes contact with the surace, bending the cantilever and changing the amount of laser light reflected into the photodiode. The height of the cantilever is then adjusted to restore the response signal, resulting in the measures cantilever height tracing the surface of the sample.   
-![AFM Diagram](https://upload.wikimedia.org/wikipedia/commons/5/5e/AFMsetup.jpg = 300x300)  
-![AFM Sample Reading](https://upload.wikimedia.org/wikipedia/commons/0/05/3D_Topografic_AFM_image.jpg = 300x300)  
+![AFM Diagram](https://upload.wikimedia.org/wikipedia/commons/5/5e/AFMsetup.jpg =300x300)  
+![AFM Sample Reading](https://upload.wikimedia.org/wikipedia/commons/0/05/3D_Topografic_AFM_image.jpg =300x300)  
 
 ## The Problem
 When using AFM to detect molecules of a sample, issues can arise. There may be multiple molecules present in one image, making it hard to differentiate from the beginning of one molecule to the end of the other. Though AFM is a high resolution scanner, images from scanning a sample may still come out to be rather blurry. Some AFM scans may result in higher detail of one molecule, displaying certain features that are void in other images of the same type of molecule. Since AFM operates at such a small scale, little things like dust can distrupt a scan, poluting an image with noise.  
